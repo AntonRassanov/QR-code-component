@@ -4,5 +4,5 @@ This is my first commit and first challenge from Frontend Mentor.
 
 Super simple QR code card built with:
 
-- rest css
+- reset css
 - Google fonts
