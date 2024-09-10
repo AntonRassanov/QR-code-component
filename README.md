@@ -1,4 +1,4 @@
-./screenshot.jpg
+![](./screenshot.jpg)
 
 This is my first commit and first challenge from Frontend Mentor.
 
